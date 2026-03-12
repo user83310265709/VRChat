@@ -1,0 +1,11 @@
+01_ON
+02_OFF
+03_OFF
+04_OFF
+05_OFF
+
+01 Winter - neige sur la map
+02 Summer - soleil + particules
+03 Halloween - citrouilles
+04 Christmas - sapins
+05 Night - ciel étoilé
