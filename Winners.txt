@@ -5,8 +5,8 @@ loika
 NoShader
 1 337
 Pajitnov
-25 740
+19 120
 Wumbotize 
-25 320
+18 650
 NoShader
-24 460
+17 080
