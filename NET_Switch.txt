@@ -4,8 +4,14 @@
 04_OFF
 05_OFF
 
+
+-------------------------------
+01 : Showcase corner Update
+02 : Join Discord
+-------------------------------
 01 Winter - neige sur la map
 02 Summer - soleil + particules
 03 Halloween - citrouilles
 04 Christmas - sapins
 05 Night - ciel étoilé
+-------------------------------
