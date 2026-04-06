@@ -1,12 +1,12 @@
 Noxylis
 10 371
+dylan34500
+6 592
 loika
 5 228
 NoShader
-1 337
+77 929
 Pajitnov
 19 120
 Wumbotize 
 18 650
-NoShader
-17 080
