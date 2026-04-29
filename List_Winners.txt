@@ -5,8 +5,8 @@ _Kojiki_
 Noxylis
 10 371
 Krokmouz
-96 764
+188 843
+NoShader
+176 943
 mandarine-man
 82 842
-NoShader
-77 929
