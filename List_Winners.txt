@@ -5,7 +5,7 @@ _Kojiki_
 Seaman20 8172
 10 531
 Krokmouz
-188 843
+214 622
 NoShader
 176 943
 mandarine-man
